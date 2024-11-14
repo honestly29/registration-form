@@ -21,7 +21,6 @@ export function isFieldEmpty(fieldId) {
 }
 
 
-
 /**
  * Validates a field against a given regex and sets an error message if it fails.
  * 
